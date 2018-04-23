@@ -10,19 +10,14 @@ Note that the 'b' and 'w' values in race are assigned randomly to the resumes wh
 ### Exercises
 You will perform a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
 Answer the following questions in this notebook below and submit to your Github account.
-What test is appropriate for this problem? Does CLT apply?
-What are the null and alternate hypotheses?
-Compute margin of error, confidence interval, and p-value. Try using both the bootstrapping and the frequentist statistical approaches.
-Write a story describing the statistical significance in the context or the original problem.
-Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
+* What test is appropriate for this problem? Does CLT apply?
+* What are the null and alternate hypotheses?
+* Compute margin of error, confidence interval, and p-value. Try using both the bootstrapping and the frequentist statistical approaches.
+* Write a story describing the statistical significance in the context or the original problem.
+* Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
 You can include written notes in notebook cells using Markdown:
 In the control panel at the top, choose Cell > Cell Type > Markdown
-Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
-Resources
-Experiment information and data source: http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
-Scipy statistical methods: http://docs.scipy.org/doc/scipy/reference/stats.html
-Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
-Formulas for the Bernoulli distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
+
 
 
 ### Files
@@ -39,3 +34,10 @@ Directory|Description
 code | Contains Jupyter notebook 
 data| contains data
  
+### Reference
+Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
+Resources
+Experiment information and data source: http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
+Scipy statistical methods: http://docs.scipy.org/doc/scipy/reference/stats.html
+Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
+Formulas for the Bernoulli distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
