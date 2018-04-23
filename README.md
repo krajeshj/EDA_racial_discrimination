@@ -8,3 +8,17 @@ In the dataset provided, each row represents a resume. The 'race' column has two
 
 Note that the 'b' and 'w' values in race are assigned randomly to the resumes when presented to the employer.
 
+### Files
+
+File|Description
+---------|-------------------------------------------------------------------------------------------------------------------
+code/sliderule_dsi_inferntial_statistics_exercise_2.ipynb|  Jupyter Notebook containing code
+data/us_job_market_discrimination.dta data for the notebook
+ 
+### Directories
+
+Directory|Description
+---------|---------------------------------------------------------------------------------------------------
+code | Contains Jupyter notebook 
+data| contains data
+ 
