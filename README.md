@@ -12,8 +12,8 @@ Note that the 'b' and 'w' values in race are assigned randomly to the resumes wh
 
 File|Description
 ---------|-------------------------------------------------------------------------------------------------------------------
-code/sliderule_dsi_inferntial_statistics_exercise_2.ipynb|  Jupyter Notebook containing code
-data/us_job_market_discrimination.dta data for the notebook
+[code/sliderule_dsi_inferntial_statistics_exercise_2.ipynb](https://github.com/krajeshj/EDA_racial_discrimination/blob/master/code/sliderule_dsi_inferential_statistics_exercise_2.ipynb)|  Jupyter Notebook containing code
+[data/us_job_market_discrimination.dta](https://github.com/krajeshj/EDA_racial_discrimination/tree/master/data)| data for the notebook
  
 ### Directories
 
